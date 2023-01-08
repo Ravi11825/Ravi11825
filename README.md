@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ravi11825
 - 👀 I’m interested in learning new teck stuff
-- 🌱 I’m currently persuing BCA
+- 🌱 I recently completed BCA
 - 📫 How to reach me ravikant123.iimt@gmail.com
 
 <!---
